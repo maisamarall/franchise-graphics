@@ -1,4 +1,4 @@
-#   🎬 Franchise Graphics  🎥
+[matriz_coocorrencia.csv](https://github.com/user-attachments/files/23889910/matriz_coocorrencia.csv)[matriz_similaridade.csv](https://github.com/user-attachments/files/23889907/matriz_similaridade.csv)[matriz_incidencia.csv](https://github.com/user-attachments/files/23889906/matriz_incidencia.csv)#   🎬 Franchise Graphics  🎥
 
 Projeto desenvolvido para praticar os conceitos de criação de matrizes(incidência, similiaridade e coocorrência), criação de grafos(incidência, similiaridade e coocorrência) e cálculo de métricas topológicas para cada um dos grafos, uitlizando a linguagem R, analisando dados a partir de um dataset sobre franquias.
 
@@ -59,7 +59,7 @@ franchise-graphics/
 ## Matrizes
 
 ### Matriz de Incidência
-                 to
+[Uplo                 to
 from               Crepúsculo DC Game of Thrones Harry Potter Marvel Senhor dos Anéis Star Wars
   André                     0  0               0            1      1                0         0
   Daniel                    0  0               0            1      1                0         0
@@ -100,10 +100,10 @@ from               The Hunger Games Velozes e Furiosos
   Thiago Aoki                     0                  0
   Thierry                         0                  0
   Vinícius                        0                  0
-  Zé Vitor                        1                  1
+  Zé Vitor                        1                  1ading matriz_incidencia.csv…]()
 
 ### Matriz de similiaridade
-                   André Daniel Dorce Estevão Alves Felipe Garcia Gustavo Henrique Jênie João Victor
+[Uploading matriz_simil                 André Daniel Dorce Estevão Alves Felipe Garcia Gustavo Henrique Jênie João Victor
 André             1.00   0.50  0.29          0.33          0.33             0.75  0.50        0.33
 Daniel            0.50   1.00  0.29          0.33          0.33             0.40  0.50        0.33
 Dorce             0.29   0.29  1.00          0.17          0.67             0.43  0.50        0.22
@@ -142,10 +142,11 @@ Simone              0.14  0.40    0.00   0.00    0.20   0.33   1.00        0.00 
 Thiago Aoki         0.00  0.00    0.00   0.33    0.00   0.00   0.00        1.00    0.00     0.00     0.12
 Thierry             0.00  0.50    0.00   0.00    0.00   0.33   0.20        0.00    1.00     1.00     0.12
 Vinícius            0.00  0.50    0.00   0.00    0.00   0.33   0.20        0.00    1.00     1.00     0.12
-Zé Vitor            0.38  0.25    0.12   0.22    0.12   0.38   0.62        0.12    0.12     0.12     1.00
+Zé Vitor            0.38  0.25    0.12   0.22    0.12   0.38   0.62        0.12    0.12     0.12     1.00aridade.csv…]()
+
 
 ### Matriz de coocorrência
-   to
+[Uploading matriz_coocorrencia.   to
 to                   Crepúsculo DC Game of Thrones Harry Potter Marvel
   Crepúsculo                  0  3               2            2      2
   DC                          3  0               4            4      5
@@ -166,7 +167,7 @@ to                   Senhor dos Anéis Star Wars The Hunger Games Velozes e Furi
   Senhor dos Anéis                  0         2                3                  3
   Star Wars                         2         0                2                  2
   The Hunger Games                  3         2                0                  4
-  Velozes e Furiosos                3         2                4                  0
+  Velozes e Furiosos                3         2                4                  0csv…]()
 
 ## Grafos
 
@@ -194,4 +195,5 @@ to                   Senhor dos Anéis Star Wars The Hunger Games Velozes e Furi
 ###  🎓 Disciplina
 
 **MATEMÁTICA DISCRETA - Profª BIANCA SAVEGNAGO DE MIRA**
+
 
