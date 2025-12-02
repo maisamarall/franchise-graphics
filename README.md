@@ -7,13 +7,8 @@ Projeto desenvolvido para praticar os conceitos de criação de matrizes(incidê
 ## 🎯 Objetivo
 
 * Criar um dataset sobre quais são as franquias e universos famosos do entretenimento que os alunos da sala mais gostam.
-* A partir do dataset, gerar:
-• Matriz de incidência: As linhas da matriz de incidência devem ser compostas pelos alunos (1ª unidade de análise – deve
-conter no mínimo dez alunos) e as colunas (2ª unidade de
-análise (a escolher) - deve conter pelo menos quatro colunas)• Matriz de similaridade
-• Matriz de coocorrência
-* A partir das matrizes, criar:
-• Grafos de incidência, similaridade e coocorrência, além de calcular as métricas topológicas para cada um dos grafos.
+* A partir do dataset, gerar matriz de incidência, similaridade e de coocorrência
+* A partir das matrizes, criar grafos de incidência, similaridade e coocorrência, além de calcular as métricas topológicas para cada um dos grafos.
 
 Tudo isso utilizando a linguagem de programação R para implementar toda a lógica do projeto.
 
@@ -199,3 +194,4 @@ to                   Senhor dos Anéis Star Wars The Hunger Games Velozes e Furi
 ###  🎓 Disciplina
 
 **MATEMÁTICA DISCRETA - Profª BIANCA SAVEGNAGO DE MIRA**
+
