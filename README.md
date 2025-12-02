@@ -1,4 +1,4 @@
-[matriz_coocorrencia.csv](https://github.com/user-attachments/files/23889910/matriz_coocorrencia.csv)[matriz_similaridade.csv](https://github.com/user-attachments/files/23889907/matriz_similaridade.csv)[matriz_incidencia.csv](https://github.com/user-attachments/files/23889906/matriz_incidencia.csv)#   🎬 Franchise Graphics  🎥
+#  🎬 Franchise Graphics  🎥
 
 Projeto desenvolvido para praticar os conceitos de criação de matrizes(incidência, similiaridade e coocorrência), criação de grafos(incidência, similiaridade e coocorrência) e cálculo de métricas topológicas para cada um dos grafos, uitlizando a linguagem R, analisando dados a partir de um dataset sobre franquias.
 
@@ -80,6 +80,7 @@ franchise-graphics/
 ###  🎓 Disciplina
 
 **MATEMÁTICA DISCRETA - Profª BIANCA SAVEGNAGO DE MIRA**
+
 
 
 
