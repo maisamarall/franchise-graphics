@@ -1,18 +1,19 @@
-rm(list = ls())
-
+#leitura do dataset
 dados_franquias <- read.csv(file.choose(), header = TRUE, sep = ",")
 dados_franquias
-unique(dados_franquias$to)
 
 # Construção da matriz de incidência
 matriz_inc <- xtabs(weight ~ from + to, data = dados_franquias)
 matriz_inc
 
 class(matriz_inc)
+
+#mudança do tipo matriz_inc
 matriz_inc <- unclass(matriz_inc)
 class(matriz_inc)
 print(matriz_inc)
 
+#instalar os pacotes
 install.packages("igraph")
 library(igraph)
 
